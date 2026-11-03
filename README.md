@@ -8,16 +8,19 @@ I work mainly in Python, C++, JavaScript and C#. The problems I enjoy most are t
 
 | Project | Stack | What it does |
 | --- | --- | --- |
-| Hand-tracked VR game (in development) | Unity, C#, OpenXR, XR Hands, Meta Quest | A Meta Quest game played with bare hands, no controllers. Pinch to charge and throw fire, thrust an open palm to Force Push, hold a palm up to phase-step. Gesture recognition uses palm orientation, hand velocity, cooldowns and re-arm thresholds. |
-| DJ mixing application | C++, JUCE | Two decks, crossfader, cue points, jog-wheel speed control, three-band EQ, low- and high-pass filters, waveform displays, RMS meters and a searchable track library. |
-| Snooker game | JavaScript, p5.js, Matter.js | A physics-based snooker table with cue aiming, shot power, spin and scoring. |
-| Webcam image processing | JavaScript, p5.js, ml5.js | A live video feed through greyscale, channel thresholding, YCbCr and HSV conversion, colour segmentation, and face-landmark filters (blur, pixelation). |
-| Weather data and forecasting | C++ | Candlestick charts of historical temperatures with date filtering, moving averages and a linear-regression forecast. |
-| Blog application | Node.js, SQLite, EJS | A database-backed blog with create, read, update and delete. |
-| Audio steganography | Python | Hides and recovers text messages inside WAV audio at the bit level. |
-| Traffic motion detection | Python, OpenCV | Finds movement in traffic video by comparing successive frames. |
+| [Snooker](https://github.com/Dawood2k1/snooker-game) · [play it](https://dawood2k1.github.io/snooker-game/) | JavaScript, p5.js, Matter.js | Browser snooker with spin, full rules, an aiming guide and a computer opponent at three skill levels. |
+| [Casebound](https://github.com/Dawood2k1/casebound) | React Native, Expo, Supabase, Jest | A one-handed courtroom mystery for mobile: inspect evidence, challenge witnesses and reconstruct the case for the judge. |
+| [Traffic motion detection](https://github.com/Dawood2k1/traffic-motion-detection) | Python, OpenCV | Detects, tracks and counts moving cars in traffic-camera footage with background subtraction and a centroid tracker. |
+| [Audio steganography](https://github.com/Dawood2k1/audio-steganography) | Python, NumPy | Recovers a message hidden in ultrasound and hides text in WAV audio with keyed LSB steganography. |
+| [Weather Wiz](https://github.com/Dawood2k1/weather-wiz-cpp) | C++ | Command-line candlestick charts of 40 years of European temperatures, with filtering and moving-average forecasts. |
+| [Blog](https://github.com/Dawood2k1/Blog) | Node.js, Express, EJS, SQLite | A blog where authors save drafts and readers browse, like and comment on articles. |
+| [Pluto Wizards](https://github.com/Dawood2k1/Pluto-wizards) · [view it](https://dawood2k1.github.io/Pluto-wizards/) | HTML, CSS, JavaScript | A five-page STEM club website with a gallery slideshow and a registration form. |
+| Hand-tracked VR game (in development, private) | Unity, C#, OpenXR, XR Hands, Meta Quest | A Meta Quest game played with bare hands: pinch to throw fire, thrust an open palm to Force Push, hold a palm up to phase-step. |
 
-Code for coursework projects is available on request.
+## Certificates
+
+- [IBM AI Engineering](https://www.coursera.org/account/accomplishments/professional-cert/S9ZS1KH0N0GL) (Coursera, 2026)
+- [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/7VQZJSPSEEFQ) (Coursera, 2024)
 
 ## Contact
 
