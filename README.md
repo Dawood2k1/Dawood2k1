@@ -16,8 +16,6 @@ I work mainly in Python, C++, JavaScript and C#. The problems I enjoy most are t
 | Audio steganography (private for now) | Python, NumPy | Recovers a message hidden in ultrasound and hides text in WAV audio with keyed LSB steganography. |
 | [Bike sharing analysis](https://github.com/Dawood2k1/bike-sharing-analysis) | Python, pandas, scikit-learn | Exploratory analysis and regression of how weather and season change hourly bike-share demand. |
 | [Weather Wiz](https://github.com/Dawood2k1/weather-wiz-cpp) | C++ | Command-line candlestick charts of 40 years of European temperatures, with filtering and moving-average forecasts. |
-| [Blog](https://github.com/Dawood2k1/Blog) | Node.js, Express, EJS, SQLite | A blog where authors save drafts and readers browse, like and comment on articles. |
-| [Pluto Wizards](https://github.com/Dawood2k1/Pluto-wizards) · [view it](https://dawood2k1.github.io/Pluto-wizards/) | HTML, CSS, JavaScript | A five-page STEM club website with a gallery slideshow and a registration form. |
 | Hand-tracked VR game (in development, private) | Unity, C#, OpenXR, XR Hands, Meta Quest | A Meta Quest game played with bare hands: pinch to throw fire, thrust an open palm to Force Push, hold a palm up to phase-step. |
 
 ## Certificates
