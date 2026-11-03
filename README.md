@@ -24,4 +24,4 @@ I work mainly in Python, C++, JavaScript and C#. The problems I enjoy most are t
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-dawood-2246a3199)
+[LinkedIn](https://www.linkedin.com/in/muhammaddawood-dev)
